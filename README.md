@@ -22,8 +22,7 @@ I'm a Bachelor of Science in Computer Science student passionate in software dev
 
 ### 📌 Featured Projects
 
-Check out my repositories to see my academic projects, experiments, and personal development projects.
-
+[Miner-Simulator](https://github.com/JLaurence2004/Miner-Simulator)
 ### 📫 Connect With Me
 
 - **GitHub:** [JLaurence2004](https://github.com/JLaurence2004)
