@@ -27,7 +27,7 @@ Check out my repositories to see my academic projects, experiments, and personal
 ### 📫 Connect With Me
 
 - **GitHub:** JLaurence2004
-- **Email:** [janabanlaurence0@example.com](mailto\:your.email@example.com)
+- **Email:** [janabanlaurence0@gmail.com](mailto\:your.email@example.com)
 
 ---
 
