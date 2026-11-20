@@ -8,7 +8,7 @@ I'm a Bachelor of Science in Computer Science student passionate in software dev
 
 ### 👨‍💻 About Me
 
-- `🎓 4th-Year Bachelor of Science in Computer Science (BSCS) Student`
+- 🎓 4th-Year Bachelor of Science in Computer Science (BSCS) Student
 - 💻 Interested in software development and application development
 - 🌱 Continuously learning programming languages and technologies
 - 🚀 Working on personal and academic projects
