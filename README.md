@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm a BSCS Student 👋
 
-<!--
-**JLaurence2004/JLaurence2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Computer Science Student
 
-Here are some ideas to get you started:
+I'm a Bachelor of Science in Computer Science student passionate in software development, application design, and emerging technologies. I enjoy developing practical solutions, exploring different tools, and continuously improving my technical skills through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- `🎓 4th-Year Bachelor of Science in Computer Science (BSCS) Student`
+- 💻 Interested in software development and application development
+- 🌱 Continuously learning programming languages and technologies
+- 🚀 Working on personal and academic projects
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** C/C++, Python, Dart, PHP, HTML/CSS, JavaScript&#x20;
+- **Frameworks:** Flutter
+- **Tools:** GitHub, VS Code, Android Studio, Arduino IDE, Godot Engine
+- **Database:** MySQL
+
+### 📌 Featured Projects
+
+Check out my repositories to see my academic projects, experiments, and personal development projects.
+
+### 📫 Connect With Me
+
+- **GitHub:** JLaurence2004
+- **Email:** [janabanlaurence0@example.com](mailto\:your.email@example.com)
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
